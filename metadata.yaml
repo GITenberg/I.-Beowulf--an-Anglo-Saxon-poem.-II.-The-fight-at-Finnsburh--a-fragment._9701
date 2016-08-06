@@ -1,0 +1,32 @@
+_repo: I.-Beowulf--an-Anglo-Saxon-poem.-II.-The-fight-at-Finnsburh--a-fragment._9701
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Harrison, James A. (James Albert)
+    birthdate: 1848
+    deathdate: 1911
+    gutenberg_agent_id: '4522'
+    url: http://www.gutenberg.org/2009/agents/4522
+  - agent_name: Sharp, Robert
+    birthdate: 1851
+    gutenberg_agent_id: '4523'
+    url: http://www.gutenberg.org/2009/agents/4523
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9701'
+language:
+- en
+- ang
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monsters -- Poetry'
+- !lcsh 'Dragons -- Poetry'
+- !lcsh 'Epic poetry, English (Old)'
+- !lcc 'PR'
+- GITenberg
+title: 'I. Beowulf: an Anglo-Saxon poem. II. The fight at Finnsburh: a fragment.'
+url: http://www.gutenberg.org/ebooks/9701
